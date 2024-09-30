@@ -24,6 +24,8 @@ Discord: zirachw <br>
 | 11        | ADT List Rekursif                           | ?/?     |
 | 12        | ADt Pohon Biner                             | ?/?     |
 
+<br>
+
 ## 📊 Praktikum Score Table ✨
 
 | Praktikum | Topic                                       | Score   |
