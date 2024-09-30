@@ -7,7 +7,7 @@ Any Question/Discussion ❔: <br>
 Insta: @zirachw <br>
 Discord: zirachw <br>
 
-## 📊 Pra-Praktikum Score Table
+## 📊 Pra-Praktikum Score Table ✨
 
 | Praktikum | Topic                                       | Score   |
 | --------- | ------------------------------------------- | ------- |
@@ -24,7 +24,7 @@ Discord: zirachw <br>
 | 11        | ADT List Rekursif                           | ?/?     |
 | 12        | ADt Pohon Biner                             | ?/?     |
 
-## 📊 Praktikum Score Table
+## 📊 Praktikum Score Table ✨
 
 | Praktikum | Topic                                       | Score   |
 | --------- | ------------------------------------------- | ------- |
