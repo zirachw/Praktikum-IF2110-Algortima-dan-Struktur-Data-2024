@@ -1,8 +1,11 @@
 # Praktikum-IF2110-Algortima-dan-Struktur-Data-2024
 
 This repository contains solutions for IF2110 Algorithm and Data Structures lab assignments
+
 Any Question/Discussion:
+
 Insta: @zirachw
+
 Discord: zirachw
 
 ## 📊 Lab Score Table
