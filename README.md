@@ -6,12 +6,29 @@ Any Question/Discussion: <br>
 Insta: @zirachw <br>
 Discord: zirachw <br>
 
-## 📊 Lab Score Table
+## 📊 Pra-Praktikum Score Table
 
 | Praktikum    | Topic                                         | Score  |
 |--------------|-----------------------------------------------|--------|
-| 0            | Introduction to C                             | 100/100|
-| 1            | ADT Sederhana                                 | 120/120|
+| 1            | ADT Sederhana                                 | 200/200|
+| 2            | ADT List dengan Array Statik                  | 100/100|
+| 3            | ADT List dengan Array Dinamis                 | ?/?    |
+| 4            | ADT Matrix                                    | ?/?    |
+| 5            | ADT Mesin Kata                                | ?/?    |
+| 6            | ADT Stack                                     | ?/?    |
+| 7            | ADT Queue                                     | ?/?    |
+| 8            | ADT Linked List                               | ?/?    |
+| 9            | ADT List Linier                               | ?/?    |
+| 10           | ADT Stack dan Queue dengan Struktur Berkait   | ?/?    |
+| 11           | ADT List Rekursif                             | ?/?    |
+| 12           | ADt Pohon Biner                               | ?/?    |
+
+## 📊 Praktikum Score Table
+
+| Praktikum    | Topic                                         | Score  |
+|--------------|-----------------------------------------------|--------|
+| 0            | Introduction to C                             | 500/500|
+| 1            | ADT Sederhana                                 | 300/300|
 | 2            | ADT List dengan Array Statik                  | ?/?    |
 | 3            | ADT List dengan Array Dinamis                 | ?/?    |
 | 4            | ADT Matrix                                    | ?/?    |
