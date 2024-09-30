@@ -2,11 +2,9 @@
 
 This repository contains solutions for IF2110 Algorithm and Data Structures lab assignments
 
-Any Question/Discussion:
-
-Insta: @zirachw
-
-Discord: zirachw
+Any Question/Discussion: <br>
+Insta: @zirachw <br>
+Discord: zirachw <br>
 
 ## 📊 Lab Score Table
 
