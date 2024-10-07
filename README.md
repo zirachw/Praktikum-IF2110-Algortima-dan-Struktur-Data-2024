@@ -13,7 +13,7 @@ Discord: zirachw <br>
 | --------- | ------------------------------------------- | ------- |
 | 1         | ADT Sederhana                               | 200/200 |
 | 2         | ADT List dengan Array Statik                | 100/100 |
-| 3         | ADT List dengan Array Dinamis               | ?/?     |
+| 3         | ADT List dengan Array Dinamis               | 100/100 |
 | 4         | ADT Matrix                                  | ?/?     |
 | 5         | ADT Mesin Kata                              | ?/?     |
 | 6         | ADT Stack                                   | ?/?     |
