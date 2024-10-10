@@ -14,7 +14,7 @@ Discord: zirachw <br>
 | 1         | ADT Sederhana                               | 200/200 |
 | 2         | ADT List dengan Array Statik                | 100/100 |
 | 3         | ADT List dengan Array Dinamis               | 100/100 |
-| 4         | ADT Matrix                                  | ?/?     |
+| 4         | ADT Matrix                                  | 100/100 |
 | 5         | ADT Mesin Kata                              | ?/?     |
 | 6         | ADT Stack                                   | ?/?     |
 | 7         | ADT Queue                                   | ?/?     |
@@ -33,7 +33,7 @@ Discord: zirachw <br>
 | 0         | Introduction to C                           | 500/500 |
 | 1         | ADT Sederhana                               | 300/300 |
 | 2         | ADT List dengan Array Statik                | 300/300 |
-| 3         | ADT List dengan Array Dinamis               | ?/?     |
+| 3         | ADT List dengan Array Dinamis               | 300/300 |
 | 4         | ADT Matrix                                  | ?/?     |
 | 5         | ADT Mesin Kata                              | ?/?     |
 | 6         | ADT Stack                                   | ?/?     |
